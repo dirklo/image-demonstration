@@ -1,3 +1,6 @@
+# This repo is a companion to this blog post:
+## https://dirklo.medium.com/the-magic-image-component-in-nextjs-a-front-end-devs-best-friend-21e09a25df30
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
