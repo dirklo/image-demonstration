@@ -10,9 +10,24 @@ export default function Navbar() {
                     Home 
                 </a> 
             </Link>
-            <Link href='/layouts'>
+            <Link href='/fixed'>
                 <a>
-                    Layouts 
+                    Fixed
+                </a> 
+            </Link>
+            <Link href='/intrinsic'>
+                <a>
+                    Intrinsic
+                </a> 
+            </Link>
+            <Link href='/responsive'>
+                <a>
+                    Responsive
+                </a> 
+            </Link>
+            <Link href='/fill'>
+                <a>
+                    Fill
                 </a> 
             </Link>
         </div>
